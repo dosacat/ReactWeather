@@ -1,3 +1,4 @@
 # ReactWeather
 React app with openweather api
-/home/bitternectar/VENVS/django/Portfolio Projects/reactWeather/openweather/Screenshot_2022-08-18_19-51-01.png
+![image](https://user-images.githubusercontent.com/98118185/186241177-63b90ab9-fcda-4ea7-bd24-d81381ad4cc8.png)
+
